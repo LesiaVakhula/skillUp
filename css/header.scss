@@ -1,0 +1,40 @@
+header{
+  padding: 20px 0 12px 0;
+
+.header-main{
+  height: 101px;
+
+
+  .header-main-row{
+  .logo-block{
+
+  }
+  .navigation-block{
+    .navigation{
+    width: 100%;
+    line-height: 1.875;
+    position: absolute;
+    //left: 853.937px;
+    //top: 66.546px;
+    z-index: 220;
+
+    a{
+      font-family: 'Montserrat', sans-serif;
+      color: rgb(0, 0, 0);
+      font-size: 16px;
+      text-transform: uppercase;
+      display: inline-block;
+      padding: 26px 0 33px 0;
+
+      &:hover{
+      color: #ffac55;
+      text-decoration: none;
+    }
+
+    }
+  }
+  }
+}
+}
+}
+
