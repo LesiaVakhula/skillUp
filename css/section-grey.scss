@@ -1,0 +1,71 @@
+.grey-block{
+  height: 505px;
+  background-color: #e7eff1;
+
+  .grey-title{
+    margin: 95px 0 0 0;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    .what{
+      color: rgb(137, 142, 143);
+      font-size: 14px;
+      padding: 0;
+      margin: 0;
+
+    }
+
+    .make-us{
+      padding: 0;
+      margin: 0;
+      font-size: 35px;
+      font-weight: 700;
+      color: #343a3b;
+      line-height: 1;
+    }
+  }
+
+  .vector{
+    margin-top: 35px;
+
+    .vector-smart{
+      font-family: "Montserrat";
+      text-transform: uppercase;
+      margin-top: 25px;
+
+      .vector-number{
+        font-size: 20px;
+        color: rgb(22, 212, 40);
+        line-height: 1;
+        font-weight: 600;
+
+      }
+
+      .vector-title{
+        font-weight: 700;
+        font-size: 18px;
+        color: rgb(52, 58, 59);
+        font-weight: bold;
+        line-height: 1.833;
+
+      }
+
+    }
+    .vector-text{
+      font-size: 15px;
+      font-family: "Roboto";
+      color: rgb(131, 139, 140);
+      line-height: 1.2;
+      text-align: left;
+
+    }
+  }
+}
+
+.Your_time_is_important_to_us__we_will_respond_f {
+  position: absolute;
+  left: 389.132px;
+  top: 1586.383px;
+  width: 305px;
+  height: 32px;
+  z-index: 150;
+}
